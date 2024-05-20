@@ -11,12 +11,10 @@
 │   ├── 1_data_join.ipynb - создание датасета
 │   ├── 2_cleaning.ipynb - очистка данных
 │   ├── 3_preprocessing.ipynb - предобработка
-│   ├── 4_topic_modeling.ipynb - тематическое моделирование
-│   ├── 5_top2vec.ipynb - тематическое моделирование
-│   ├── 6_naive_bayes.ipynb - обучение наивного байесовского классификатора
-│   ├── 7_logistic_regression.ipynb - обучение логистической регрессии
-│   ├── 8_BERT.ipynb - обучение BERT
-│   └── 9_ChatGPT.ipynb - предсказание про помощи ChatGPT
+│   ├── 4_naive_bayes.ipynb - обучение наивного байесовского классификатора
+│   ├── 5_logistic_regression.ipynb - обучение логистической регрессии
+│   ├── 6_BERT.ipynb - обучение BERT
+│   └── 7_ChatGPT.ipynb - предсказание про помощи ChatGPT
 ├── README.md
 └── Report.pdf - отчет
 ```
